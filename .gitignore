@@ -3,6 +3,6 @@ node_modules/
 .DS_Store
 temp/*
 tmp/*
-resources/**/*
+resources/*
 trush/*
 output/*
